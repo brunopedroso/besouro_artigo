@@ -1,0 +1,40 @@
+besouro_artigo
+    introdução
+        contexto
+        importância
+    trabalhos relacionados
+        abordagens
+            não automáticas
+            baseadas em métricas
+            analisando a sequencia de atividades
+        Zorro
+        comparação e critérios de escolha
+    metodologia
+        duas fases
+    resultados obtidos
+        framework para definições operacionais
+            TDD é um estudo de caso
+        classificação on-line
+            feedback imediato
+            retroalimentação de múltiplas perspectivas
+            facilita observação
+        integração e comparação de vários sistemas de avaliação
+            zorro
+            besouro
+            usuário
+        ambiguidade na classificação
+            cobertura como critério para diferenciar Production e Refactoring
+        classificação dos episódios
+            opinião
+            não ortogonal
+            TF e TL não são o contrário
+        integração com sistema de controle de versões
+            análise a posteriri
+            coleta de dados rica
+            derivação de outras métricas
+        plugin independente
+            facilidade de instalação e de modificação
+    conclusão
+        resumo dos resultados
+        limitações da abordagem
+        perspectivas e trabalhso furutos

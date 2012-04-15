@@ -18,7 +18,6 @@
 <node CREATED="1334492998285" ID="ID_1169163319" MODIFIED="1334493005002" TEXT="duas fases"/>
 </node>
 <node CREATED="1334492940624" ID="ID_1619765089" MODIFIED="1334492943046" POSITION="right" TEXT="resultados obtidos">
-<node CREATED="1334492795809" ID="ID_1178533389" MODIFIED="1334493070113" TEXT="contribui&#xe7;&#xf5;es">
 <node CREATED="1334491905654" ID="ID_1601426078" MODIFIED="1334491921629" TEXT="framework para defini&#xe7;&#xf5;es operacionais">
 <node CREATED="1334492098536" ID="ID_1377498627" MODIFIED="1334492102947" TEXT="TDD &#xe9; um estudo de caso"/>
 </node>
@@ -32,6 +31,9 @@
 <node CREATED="1334491970311" ID="ID_1694482568" MODIFIED="1334491971588" TEXT="besouro"/>
 <node CREATED="1334491971807" ID="ID_1133723385" MODIFIED="1334491973684" TEXT="usu&#xe1;rio"/>
 </node>
+<node CREATED="1334492961926" ID="ID_778684647" MODIFIED="1334493508458" TEXT="ambiguidade na classifica&#xe7;&#xe3;o">
+<node CREATED="1334492971702" ID="ID_1694129715" MODIFIED="1334492989939" TEXT="cobertura como crit&#xe9;rio para diferenciar Production e Refactoring"/>
+</node>
 <node CREATED="1334491996294" ID="ID_266512342" MODIFIED="1334492002401" TEXT="classifica&#xe7;&#xe3;o dos epis&#xf3;dios">
 <node CREATED="1334492036971" ID="ID_505896964" MODIFIED="1334492038673" TEXT="opini&#xe3;o"/>
 <node CREATED="1334492009333" ID="ID_351094886" MODIFIED="1334492014336" TEXT="n&#xe3;o ortogonal"/>
@@ -44,11 +46,6 @@
 </node>
 <node CREATED="1334492057690" ID="ID_1930862773" MODIFIED="1334492061908" TEXT="plugin independente">
 <node CREATED="1334492066050" ID="ID_1247828536" MODIFIED="1334492082277" TEXT="facilidade de instala&#xe7;&#xe3;o e de modifica&#xe7;&#xe3;o"/>
-</node>
-</node>
-<node CREATED="1334493075737" ID="ID_1267372312" MODIFIED="1334493081716" TEXT="melhorias no sistema de classifica&#xe7;&#xe3;o">
-<node CREATED="1334492961926" ID="ID_778684647" MODIFIED="1334492966978" TEXT="ambiguidade na classifica&#xe7;&#xe3;o"/>
-<node CREATED="1334492971702" ID="ID_1694129715" MODIFIED="1334492989939" TEXT="cobertura como crit&#xe9;rio para diferenciar Production e Refactoring"/>
 </node>
 </node>
 <node CREATED="1334492825503" ID="ID_438472090" MODIFIED="1334492993419" POSITION="right" TEXT="conclus&#xe3;o">
